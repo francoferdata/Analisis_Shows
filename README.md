@@ -36,7 +36,19 @@ El notebook de Jupyter (`shows.ipynb`) sigue una estructura lógica:
 ## Hallazgos Clave
 
 **Dominio de EE.UU. y Crecimiento Exponencial:** Estados Unidos domina abrumadoramente la producción de shows populares. Además, la producción de contenido ha experimentado un crecimiento exponencial desde 2010, coincidiendo con el auge de las plataformas de streaming.
+<img width="505" height="249" alt="Captura de pantalla 2025-11-01 175126" src="https://github.com/user-attachments/assets/8b2d99de-27e5-4fb9-a6a2-f3f1a1172e80" />
+
+
 
 **Popularidad vs. Calidad casi no están Correlacionadas:** El éxito no es unidimensional. El análisis de correlación (Pearson: **0.15**) demuestra que **ser "popular" no es lo mismo que ser "bien calificado"**. La relación es muy débil.
 
+<img width="500" height="383" alt="Captura de pantalla 2025-11-01 175247" src="https://github.com/user-attachments/assets/4bf8248a-4d5a-44a5-ad8c-50a32833af82" />
+
+
+
+
 **Popularidad y Votos tienen una Correlación Moderada:** La popularidad y el número de votos (`vote_count`) tienen una **correlación positiva moderada (0.49)**. Esto indica que, si bien no miden lo mismo, los shows más populares tienden a acumular más votos.
+
+<img width="501" height="365" alt="Captura de pantalla 2025-11-01 175521" src="https://github.com/user-attachments/assets/30ba9533-1148-43c9-b9f4-a08e23bb77b8" />
+
+
