@@ -15,7 +15,6 @@ El objetivo principal es **entender las características de los programas de TV 
 ## Stack Tecnológico
 * **Python y Pandas:** Para la manipulación y limpieza de datos.
 * **Matplotlib y Seaborn:** Para la visualización de datos.
-* **Scipy:** Para el cálculo de correlación estadística.
 * **AST (Abstract Syntax Trees):** Para el procesamiento de columnas complejas (listas como strings).
 
 ---
